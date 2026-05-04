@@ -1,5 +1,3 @@
-
-```markdown
 # 🍌 Ataque Banana  
 **Proyecto Diplomatura en Deportes Electrónicos 2026**
 
@@ -12,7 +10,6 @@ Este repositorio contiene el proyecto **Ataque Banana**, desarrollado en el marc
 El protagonista de este proyecto es un pequeño monito que se encuentra en un gran aprieto. ¡Está lloviendo bananas y no parece que vaya a detenerse!
 
 El objetivo es simple: debemos mover a nuestro personaje de lado a lado de la pantalla para evitar que las bananas lo alcancen. Lo que comienza como un paseo tranquilo se convierte rápidamente en una verdadera prueba de reflejos, ya que la caída de las bananas se vuelve cada vez más rápida y caótica a medida que avanza la partida.
-
 
 ---
 
@@ -58,4 +55,3 @@ Desarrollar un videojuego simple que permita comprender conceptos básicos de:
 ---
 
 Proyecto desarrollado como parte de la Diplomatura en Deportes Electrónicos - UNLP.
-```
